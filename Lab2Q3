@@ -1,0 +1,24 @@
+<html>
+  <head>
+   <title> Task 3</title>
+  </head>
+  <body>
+   <ol type = I>
+     <li> India 
+     <ol type=i>
+     <li> Hindi </li>
+     <li> English </li>
+     </li>
+     <li> Geramany
+     <ol type=i>
+     <li> German </li>
+     <li> English </li>
+     </li>
+     <li> Greece
+     <ol type=i>
+     <li> Greek </li>
+     <li> Latin </li>
+     </li>
+    </ol>
+   </body>
+</html>
