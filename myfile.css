@@ -1,0 +1,39 @@
+<style>
+  header{
+    position : fixed;
+    background-color: #D3D3D3;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    font-size: 15pt;
+       }
+  nav {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background-color: rgb(0,255,255);
+      }
+  nav li {
+    display: inline;
+        }
+  section {
+     float: left;
+     width: 50%;
+     height: 500px;
+     background-color: #ffcccb;
+         }
+  aside {
+     float: right;
+     width: 50%;
+     height: 500px;
+     background-color: #90EE90;
+        }
+  footer {
+     clear: both;
+     background-color: #FFFFE0;
+         }
+  body {
+     margin: 0px;
+       }
+</style>
+    
